@@ -1,60 +1,57 @@
-# Irene Lyimo’s Public Health Portfolio
+# Irene Lyimo's Public Health Portfolio
 
-Welcome to my public health portfolio. This repository highlights selected academic and research projects related to health equity, mental health, global health, and access to care.
+Welcome to my public health portfolio. This repository highlights selected academic and research projects related to health equity, mental health, program planning, global health, and access to care.
 
-## Featured Project
+## Featured projects
 
-### Understanding Mental Health Service Utilization and Perceived Need for Support Among Undergraduate Students
+### Mental Health Service Utilization Among Undergraduate Students
 
-This collaborative mixed-methods study examined the relationship between undergraduate students’ perceived need for mental health support, awareness of campus resources, and actual use of university mental health services.
+A collaborative mixed methods study examining undergraduate students' perceived need for mental health support, awareness of campus resources, service utilization, and barriers to seeking care.
 
-![Research poster](mental-health-service-utilization-poster.png)
+- **Institution:** University of St. Thomas
+- **Course:** PUBH 465
+- **Methods:** Qualtrics survey, IBM SPSS Statistics, semi-structured interviews, framework analysis, and mixed methods integration
+- **My contribution:** Participated in the collaborative research and independently developed and wrote the research manuscript
 
-**Institution:** University of St. Thomas  
-**Course:** PUBH 465  
-**Project type:** Collaborative mixed-methods research study
+[View the complete project page](projects/mental-health-service-utilization/README.md)  
+[View the research poster](mental-health-service-utilization-poster.png)  
+[Read the research manuscript](projects/mental-health-service-utilization/Research%20Manuscript.pdf)
 
-#### Methods
+### UST FYEX Connection Program and First-Year Connectors
 
-- Anonymous cross-sectional survey administered through Qualtrics
-- Quantitative analysis using IBM SPSS Statistics
-- Semi-structured qualitative interviews
-- Framework analysis to identify recurring themes
-- Integration of quantitative and qualitative findings through a joint display
-- Development of a scientific research poster
+A collaborative public health capstone proposal addressing social isolation and loneliness among first-year university students through a peer-led connection and belonging program.
 
-#### Key Findings
+- **Institution:** University of St. Thomas
+- **Course:** PUBH 485
+- **Project type:** Public health program proposal
+- **My contribution:** Contributed to the literature review, selected presentation slides, and development of the capstone poster
 
-- 55.2% of surveyed students reported needing mental health support during the previous 12 months.
-- Only 27.6% reported using University of St. Thomas mental health services.
-- Important barriers included time constraints, stigma, uncertainty about accessing services, limited knowledge of available options, and concerns about cultural relevance and trust.
-- The findings suggest that awareness of services alone may not be sufficient to encourage help-seeking.
+[View the complete capstone project page](projects/social-isolation-fyex-connection-program/README.md)  
+[View the project proposal presentation](projects/social-isolation-fyex-connection-program/Project%20Proposal%20Slide%20Seck%20-%20PUBH%20485-2.pdf)  
+[View the capstone poster](projects/social-isolation-fyex-connection-program/PUBH485%20--%20Poster.pdf)
 
-#### Public Health Significance
-
-The study demonstrates an important gap between recognizing a need for mental health support and accessing available services. Improving communication, reducing stigma, offering flexible appointments, and strengthening culturally responsive support may increase service utilization among undergraduate students.
-
-#### Skills Demonstrated
-
-- Mixed-methods research
-- Survey development and administration
-- Quantitative and qualitative analysis
-- Research interviewing
-- Joint display development
-- Data visualization
-- Scientific writing and poster design
-- Collaborative research
-
-## Additional Projects
+## Additional projects
 
 ### Healthcare Workforce Shortages
 
-A project examining the causes and public health consequences of healthcare workforce shortages. A detailed project summary will be added as materials are organized.
+A course project examining the causes and public health consequences of healthcare workforce shortages, including effects on healthcare access, cost, quality, equity, and population health. A detailed project page will be added as the final materials are organized.
 
 ### HPV Vaccination and HIV Care Integration
 
 Upcoming research related to integrating HPV vaccination into ART clinics serving girls living with HIV in Zambia. Only appropriate materials approved for public sharing will be added.
 
-## Research Integrity
+## Skills represented
 
-This portfolio contains only appropriate, de-identified, and non-confidential materials. No participant-level data or protected information is publicly shared.
+- Mixed methods research
+- Literature reviews and evidence synthesis
+- Survey and interview research
+- Quantitative and qualitative analysis
+- Public health program planning
+- Logic model development
+- Academic writing
+- Scientific posters and presentations
+- Collaborative teamwork
+
+## Research integrity
+
+This portfolio contains only appropriate, de-identified, and non-confidential materials. No participant-level data, consent forms, or interview transcripts are publicly shared.
