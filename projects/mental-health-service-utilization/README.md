@@ -54,7 +54,7 @@ Universities can strengthen student support by communicating about services thro
 ## Project materials
 
 - [Research poster](../../mental-health-service-utilization-poster.png)
-- [Research manuscript](research-manuscript.pdf)
+- [Research manuscript](Research%20Manuscript.pdf)
 
 To protect participants, raw survey responses and interview transcripts are not included in this portfolio.
 
